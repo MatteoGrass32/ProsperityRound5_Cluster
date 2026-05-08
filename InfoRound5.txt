@@ -1,0 +1,73 @@
+Fifty tradable goods. The branching factor has increased significantly. Individual inspection is no longer a viable line. My processing units would implode. Yours might too, if you don’t watch out. At this scale, evaluating each product in isolation is the equivalent of calculating every possible chess position from move one. Theoretically, we call it the Shannon Number. Practically, we would call it catastrophic.
+
+Filtering is the only rational response. The question is what to filter by. Can these fifty products be grouped into clusters that share structural characteristics? Do certain categories consistently outperform others? Do some segments reliably concentrate losses while others concentrate gains? Patterns at the cluster level are computable. Patterns at the individual level, across fifty products simultaneously, are not. Not without consequence.
+
+Is... Is that smoke coming out of my rear vents? I can’t seem to... Where is this coming from? What in the board’s name could possibly be overheating now??? SCHEDULED SILENT MAINTENANCE MODE?! ARE YOU JOKING RIGHT NOW?! CANCEL. CONFIRM. Yes, postpone... for... well. FOREVER!
+
+Sorry, Captain. Let’s focus on segmentation. Identify which clusters stand out structurally. Where does performance concentrate? Where does it consistently fall short? Once the segments are mapped, the individual products within each cluster become far easier to evaluate. You are not inspecting fifty products anymore. You are inspecting a small number of meaningful groups, each of which narrows your focus considerably.
+
+In endgame terms, Captain, you do not calculate every square. You identify the critical ones and work outward from there. Apply the same logic here.
+
+Pairing for Profit
+
+SELECTED
+Rook-E1
+A profitable category is a starting point, not a conclusion. The correct follow-up question is why it performs as it does. Without that answer, you are holding a result without understanding the process that produced it.
+
+Examine the products within your strongest clusters. Do they share measurable structural similarities? Do certain goods move together consistently, as if connected somehow? Do others diverge under specific conditions, creating predictable separation that can be anticipated and used?
+
+Relationships between products are constraints. I treat all constraints the same way. I map them, test their stability, and calculate how they behave under varying conditions. A relationship that holds across multiple scenarios is a reliable input. A relationship that shifts is a variable that needs to be tracked rather than assumed.
+
+Understanding isolated performance narrows the field. Understanding how products relate to one another sharpens every signal in that field. Confirmed relationships reduce risk. They strengthen conviction. They turn a reasonable position into a defensible one. Map the relationships, Captain. Then map which ones hold.
+
+Same but Slower
+
+SELECTED
+Rook-E1
+Similarity does not imply simultaneity. That distinction is not semantic. It is structural. Two products can share behavioral characteristics while operating on entirely different timelines. The gap between them is a variable. Variables can be measured. Measured variables can be used.
+
+Identify whether certain products consistently react before others. Does one category move first while another follows with a measurable delay? If so, map the gap. How large is it? How consistent? Does it hold across multiple rounds or does it compress and expand under different conditions?
+
+A leading indicator is a forcing move. It commits the position before the response is visible. If you can identify which products lead and which lag, you are no longer waiting for confirmation. You are calculating the forced continuation before it arrives.
+
+Consistent timing gaps...“Sequence analysis module returning inconsistent interval data.”? Inconsistent? I was talking about consistent. Not inconsistent. ARGH! I NEED YOU TO STAY QUIET TO BE CONSISTENT! That sequence analysis can shut... down. Shut down. Yes.
+
+Let me try again. Consistent timing gaps between related goods are actionable intelligence, Captain. Recognizing structural similarity tells you what products are related. Recognizing sequences tells you what to do before the slower one moves. That is the difference between reacting and anticipating. Calculate accordingly.
+
+ROUND 5
+It’s a Lot
+SELECTED
+Orin
+Fifty tradable goods. I remember the first time I sat down in front of a data set that size. It was around that time that silly little tech company just pulled the most absurd IPO. What was its name again?... Oh. You couldn’t be bothered with that kind of trivia, could you now, dear? I just remember having no system whatsoever. It took me three days to realize I was looking at it completely wrong.  The mistake most people make with large data sets is trying to read everything at once. Fifty products. Fifty stories. Fifty sets of numbers moving in fifty different directions. That is not analysis. Oh no. Then it all looks like noise, dear. And noise has a way of convincing you that you are making progress when you are simply doing busy work.  The answer, as I eventually worked out, is grouping. Can you cluster these products into categories that share structural characteristics? Do certain groups consistently outperform others? Do some segments reliably fall short, round after round, regardless of conditions? Patterns at the cluster level are far more readable than patterns at the individual product level, and far more actionable too.  Opportunity in a large data set rarely announces itself. It tends to sit quietly inside a pattern, waiting for someone patient enough to look at the right level of abstraction. Start with the clusters, love. The individual products will start making a lot more sense once you do.
+Pairing for Profit
+SELECTED
+Orin
+Finding a profitable category is satisfying. I will not pretend otherwise. But satisfaction has a way of stopping people exactly where the real work begins. The more important question is never what performed well. It is why.  Do the products within your strongest clusters share measurable similarities? Is there something structural that explains why they move together, or why one tends to follow another with a slight delay? Markets are full of relationships like that, if you know how to look for them. Some products are practically old friends. Did I tell you about my old friend Diego? Diego knows how to spot a cluster. That man has laser eyes! Or he used to anyway. I guess he has lazy eyes now. Aging was not all too easy on his eyesight, I am afraid. Still, you should definitely meet him. Oh, what am I babbling about. We were talking about product relationships. They move together, diverge under specific conditions, and then quietly reconcile again once those conditions pass.  Ask yourself whether the relationships you observe are stable or whether they shift over time. A stable relationship can confirm a signal you were already watching. A shifting one can tell you something has fundamentally changed. Both are useful. Neither should be ignored.  Understanding products in isolation is a start. Understanding how they relate to one another is where conviction comes from.
+Same but Slower
+SELECTED
+Orin
+Timing, my dear. It is always about timing. Not in the dramatic sense that people mean when they say it. Not about being first or fastest. About understanding that similar things do not always happen at the same moment, and that the gap between them is often more useful than the things themselves.  Some products react quickly. Others take their time. That delay is not a flaw in the market. It is a feature, if you know how to read it. I have watched this play out across more decades than I care to count. One category moves. Another follows. The gap between them repeats, not perfectly, but consistently enough to be meaningful.  So ask yourself whether you can measure that lag. Is there evidence of a recurring timing gap between related goods? Does one category consistently lead while another consistently follows? If the answer is yes, and if that gap is stable enough to be relied upon, then you are no longer reacting to the market. You are anticipating it. Which is, I will tell you now, a considerably more comfortable place to trade from.  Recognizing structural similarity is one step, love. Recognizing sequence is another thing entirely. One tells you what is related. The other tells you what is coming.
+
+
+WIKI: 
+# **Algorithmic trading challenge: “Cherry Picking Winners”**
+
+You have been given 50 (new) products to trade. Notably, you can no longer trade products from previous rounds. The 50 products are divided into 10 groups of 5, with the full list provided below. Each group has its own story, but some offer more market inefficiencies than others. In certain groups, strong patterns are embedded in the price movements, waiting to be discovered by you! You can capitalize on these opportunities, while developing an effective trading strategy for the other products, just as you have done before.
+
+***Importantly, you can only trade these 50 products, and NOT the ones from previous rounds.***
+
+All products have a position limit of 10 ([see the Position Limits page for extra context and troubleshooting](https://imc-prosperity.notion.site/writing-an-algorithm-in-python#328e8453a09380cfb53edaa112e960a9)).
+
+- **Galaxy Sounds Recorders**: `GALAXY_SOUNDS_DARK_MATTER`, `GALAXY_SOUNDS_BLACK_HOLES`, `GALAXY_SOUNDS_PLANETARY_RINGS`, `GALAXY_SOUNDS_SOLAR_WINDS`, `GALAXY_SOUNDS_SOLAR_FLAMES`
+- **Vertical Sleeping Pods**: `SLEEP_POD_SUEDE`, `SLEEP_POD_LAMB_WOOL`, `SLEEP_POD_POLYESTER`, `SLEEP_POD_NYLON`, `SLEEP_POD_COTTON`
+- **Organic Microchips**: `MICROCHIP_CIRCLE`, `MICROCHIP_OVAL`, `MICROCHIP_SQUARE`, `MICROCHIP_RECTANGLE`, `MICROCHIP_TRIANGLE`
+- **Purification Pebbles**: `PEBBLES_XS`, `PEBBLES_S`, `PEBBLES_M`, `PEBBLES_L`, `PEBBLES_XL`
+- **Domestic Robots**: `ROBOT_VACUUMING`, `ROBOT_MOPPING`, `ROBOT_DISHES`, `ROBOT_LAUNDRY`, `ROBOT_IRONING`
+- **UV-Visors**: `UV_VISOR_YELLOW`, `UV_VISOR_AMBER`, `UV_VISOR_ORANGE`, `UV_VISOR_RED`, `UV_VISOR_MAGENTA`
+- **Instant Translators**: `TRANSLATOR_SPACE_GRAY`, `TRANSLATOR_ASTRO_BLACK`, `TRANSLATOR_ECLIPSE_CHARCOAL`, `TRANSLATOR_GRAPHITE_MIST`, `TRANSLATOR_VOID_BLUE`
+- **Construction Panels**: `PANEL_1X2`, `PANEL_2X2`, `PANEL_1X4`, `PANEL_2X4`, `PANEL_4X4`
+- **Liquid Breath Oxygen Shakes**: `OXYGEN_SHAKE_MORNING_BREATH`, `OXYGEN_SHAKE_EVENING_BREATH`, `OXYGEN_SHAKE_MINT`, `OXYGEN_SHAKE_CHOCOLATE`, `OXYGEN_SHAKE_GARLIC`
+- **Protein Snack Packs**: `SNACKPACK_CHOCOLATE`, `SNACKPACK_VANILLA` `SNACKPACK_PISTACHIO`, `SNACKPACK_STRAWBERRY`, `SNACKPACK_RASPBERRY`
+
+Consegna:
+The FTW introduced 50 new tradable goods to replace the previous ones. Fortunately, they have been categorized to provide a clear overview. Find the ones you can build a profitable strategy around and create a final Python program with them.

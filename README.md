@@ -1,3 +1,21 @@
+rust_backtester --trader traders/trader_TG01.py --dataset round5
+rust_backtester --trader traders/trader_TG02.py --dataset round5
+rust_backtester --trader traders/trader_TG03_v2.py --dataset round5
+rust_backtester --trader traders/trader_TG04.py --dataset round5
+rust_backtester --trader traders/trader_TG05_v2.py --dataset round5
+rust_backtester --trader traders/trader_TG06_v2.py --dataset round5
+rust_backtester --trader traders/trader_TG07_v3.py --dataset round5
+rust_backtester --trader traders/trader_TG08.py --dataset round5
+rust_backtester --trader traders/trader_TG09_v2.py --dataset round5
+rust_backtester --trader traders/trader_TG10_v3.py --dataset round5
+
+rust_backtester --trader traders/trader_Claude.py --dataset round5
+rust_backtester --trader traders/TRADER_COMPLETO.py --dataset round5
+
+rust_backtester --trader traders/trader_Gemini.py --dataset round5
+
+rust_backtester --trader traders/ema_snack_trader10.py --dataset round5
+
 # Rust Backtester
 
 This repo is a self-contained Rust backtester for IMC Prosperity 4.

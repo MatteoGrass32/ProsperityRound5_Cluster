@@ -1,0 +1,51 @@
+Group,Product,Return %,Ann. Vol,Sharpe,Skew
+TG01 - Galaxy Sounds,Dark Matter,0.86,4.53,0.114,-0.024
+TG01 - Galaxy Sounds,Black Holes,10.29,4.52,1.312,-0.037
+TG01 - Galaxy Sounds,Plan. Rings,-1.1,4.54,-0.148,-0.008
+TG01 - Galaxy Sounds,Solar Winds,0.83,4.5,0.111,-0.002
+TG01 - Galaxy Sounds,Solar Flames,2.6,4.47,0.347,-0.014
+TG02 - Vertical Slee,Suede,5.44,4.49,0.715,0.045
+TG02 - Vertical Slee,Lamb Wool,2.62,4.53,0.345,0.059
+TG02 - Vertical Slee,Polyester,5.67,4.51,0.741,0.004
+TG02 - Vertical Slee,Nylon,2.54,4.46,0.34,0.022
+TG02 - Vertical Slee,Cotton,4.25,4.54,0.554,-0.006
+TG03 - Organic Micro,Circle,1.39,4.52,0.185,-0.035
+TG03 - Organic Micro,Oval,-16.74,6.84,-1.619,-0.001
+TG03 - Organic Micro,Square,9.42,6.8,0.801,0.002
+TG03 - Organic Micro,Rectangle,-4.44,6.77,-0.406,0.019
+TG03 - Organic Micro,Triangle,-7.0,6.73,-0.652,0.008
+TG04 - Purification ,XS,-15.96,9.23,-1.139,0.017
+TG04 - Purification ,S,-6.94,7.49,-0.581,0.033
+TG04 - Purification ,M,2.29,6.61,0.207,0.022
+TG04 - Purification ,L,-2.86,6.64,-0.264,0.001
+TG04 - Purification ,XL,17.2,10.32,0.93,-0.05
+TG05 - Domestic Robo,Vacuuming,-5.97,4.5,-0.827,-0.046
+TG05 - Domestic Robo,Mopping,4.97,4.54,0.647,0.01
+TG05 - Domestic Robo,Dishes,4.05,7.94,0.302,-0.014
+TG05 - Domestic Robo,Laundry,-2.42,4.49,-0.33,0.011
+TG05 - Domestic Robo,Ironing,-8.0,5.32,-0.948,0.003
+TG06 - UV-Visors,Yellow,0.14,4.46,0.019,-0.016
+TG06 - UV-Visors,Amber,-11.06,4.52,-1.567,0.002
+TG06 - UV-Visors,Orange,-2.23,4.52,-0.302,-0.009
+TG06 - UV-Visors,Red,5.4,4.48,0.711,0.021
+TG06 - UV-Visors,Magenta,4.57,4.5,0.601,0.028
+TG07 - Instant Trans,Space Gray,-5.27,4.5,-0.726,0.006
+TG07 - Instant Trans,Astro Black,-3.61,4.49,-0.495,-0.037
+TG07 - Instant Trans,Eclipse,-0.89,4.51,-0.119,-0.064
+TG07 - Instant Trans,Graph. Mist,-0.69,4.48,-0.094,-0.034
+TG07 - Instant Trans,Void Blue,4.81,4.51,0.63,-0.027
+TG08 - Construction ,1x2,-1.09,4.57,-0.145,0.015
+TG08 - Construction ,2x2,-1.97,4.52,-0.266,0.024
+TG08 - Construction ,1x4,-2.71,4.56,-0.365,-0.005
+TG08 - Construction ,2x4,7.37,4.46,0.965,-0.006
+TG08 - Construction ,4x4,-2.92,4.5,-0.399,0.002
+TG09 - Liquid Breath,Morning,-1.47,4.55,-0.197,-0.037
+TG09 - Liquid Breath,Evening,-2.08,5.31,-0.24,-0.021
+TG09 - Liquid Breath,Mint,0.52,4.53,0.07,0.004
+TG09 - Liquid Breath,Chocolate,2.51,5.1,0.294,-0.115
+TG09 - Liquid Breath,Garlic,11.55,4.51,1.466,0.011
+TG10 - Protein Snack,Chocolate,-1.15,3.0,-0.232,0.026
+TG10 - Protein Snack,Vanilla,1.09,2.9,0.226,-0.042
+TG10 - Protein Snack,Pistachio,-3.09,2.46,-0.773,0.028
+TG10 - Protein Snack,Strawberry,2.85,3.4,0.5,0.008
+TG10 - Protein Snack,Raspberry,1.02,3.58,0.171,-0.028

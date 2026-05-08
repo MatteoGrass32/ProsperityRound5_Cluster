@@ -1,0 +1,81 @@
+WIKI:
+Manual trading challenge: “Extra! Extra! Read all about it!” You get access to a new source that you can use to build a portfolio that you hold until the next day. Use the news to inform how you structure your portfolio and which instruments you want to buy or sell. You’ve been invited to trade on the Ignith exchange for one day only. An exclusive event and perfect opportunity to make some big final profits before the trading champion of the galaxy is crowned. You have been granted access to Ignith’s most trusted news source: Ashflow Alpha. You’ll find all the information you need right there. Be aware that trading these foreign goods comes at a price. The more you trade in one good, the more expensive it will get. This is the final stretch. Make it count! Fee formula is as follows: *fee = (volume_for_specific_product / 100) * (volume_for_specific_product / 100) ** budget Budget is 1,000,000. You are allowed to distribute less than the whole 100% of the budget. You are not allowed to distribute more than 100% of the budget. Used budget will be subtracted from your trade PnL. Unused budget will not be added to your profit, but will simply expire worthless.
+
+CONSEGNA: 
+you have the unique opportunity to trade on the Ignith market for this final round only. This neighboring planet is known for its volcanic scenery and heated market dynamics. You'll have a set budget of 1,000,000 XIRECs and access to their primary new source, “Ashflow Alpha” to make informed decisions. Be aware that there are trading fees involved, tied to the volume per product you choose to trade. Analyze the Ashflow Alpha articles to spot opportunities and develop your strategy for this final manual challenge.
+
+Q and A
+Q:1:Can you please clarify that we are trading the goods and not the stocks of the underlying companies making those goods?
+since the sentiment would be different in each case per se
+2:How big of a price move should we expect, what should be the measuring stick per se
+A: 1: Goods yeah. You are trading the thing that you can put your position in the platform
+ 2:Can't answer this one. However, this won't be purely our discretion. We have a preconfigured range, and anchor, but submissions from people can skew this (within the range)
+
+Q:Submissions can skew it? So there is influence from other participants on this as well?
+A:Yeah, but not as pronounced as in the game theory based ones
+It's purely a correction if our estimates don't align with the market
+because you the players are the market in this case
+
+Q:Assuming we are reading the news on day 0, and constructed our portfolio:
+The portfolio goes live at the start of day 1 and it ends at the end of day 1, so our pnl is how much the product moved in one day?
+We are focused on short term 1-day predictions?
+A: you read these news right before the trading day, put your bets and then see what happens
+
+Q:What is volume_for_specific_product? Is it simply: volume_for_specific_product = percentage allocation, e.g. 20 for 20%.
+What does “used budget will be subtracted from trade PnL” mean? not sure about the wording 
+How is PnL determined? Does each product just have a hidden next-day return.
+A:in your case it's 20, that's also how fee formula on the platform behaves
+What does “used budget will be subtracted from trade PnL” mean? not sure about the wording  -> that's to clarify previous confusions
+Let's say there are no fees, to make example easier. You invest 100k in some product. It goes up 20%. You now have 120k. Your PNL doesn't grow by 120, but by 20k only (subtracting the used budget)
+Every product has a next day return, that is based on our range + how people trade on average - to make sure we're not wrong
+
+Q: post how many days is the final price picked?
+A: 1 day
+
+HINT : Timing, my dear. It is always about timing. Not in the dramatic sense that people mean when they say it. Not about being first or fastest. About understanding that similar things do not always happen at the same moment, and that the gap between them is often more useful than the things themselves.  Some products react quickly. Others take their time. That delay is not a flaw in the market. It is a feature, if you know how to read it. I have watched this play out across more decades than I care to count. One category moves. Another follows. The gap between them repeats, not perfectly, but consistently enough to be meaningful.  So ask yourself whether you can measure that lag. Is there evidence of a recurring timing gap between related goods? Does one category consistently lead while another consistently follows? If the answer is yes, and if that gap is stable enough to be relied upon, then you are no longer reacting to the market. You are anticipating it. Which is, I will tell you now, a considerably more comfortable place to trade from.  Recognizing structural similarity is one step, love. Recognizing sequence is another thing entirely. One tells you what is related. The other tells you what is coming.
+
+
+9 articoli 
+
+ 1: Obsidian cutlery (è stata chiusa la fabbrica. Siccome si parla di
+ articolo "live" penso che oggi sia conveniente comprare perché domani
+ vendere sarà più vantaggioso. Farei BUY moderato) 
+Concorda ( 5% buy))
+
+ 2: Pyroflex cells (se tolgo un incentivo alle tasse da domani, domani forse il
+ prezzo sarà più alto. Bisogna indagare se una azienda di petrolio a cui vengono alzate le tasse va o meno ad alzare i prezzi
+ forse conviene BUY, ma anche skip ci sta)
+Non concorda, segnale ambiguo (Sell per via di calo della domanda "will disrupt consumer upgrade cycles and slow new purchases)
+Ma vale anche che salgono i costi sale il prezzo 
+(5% sell)
+
+ 3: Thermalite core (i prodotti già venduti sono talmente buoni da ridurre
+ la domanda, questo comporta che il prezzo del tradable good per me
+ scenderanno. Andre in leggero SELL o SKIP)
+Concorda (2% sell)
+
+ 4: Lava cake (Sono state trovate tracce nocive nel prodotto, sta venendo
+ ritirato dal mercato. STRONG SELL)
+Concorda (25% Sell)
+
+ 5: Magma ink (ieri c'è stato un mega evento esclusivo, non avrebbe senso
+ comprare il giorno dopo, quindi SELL moderato)
+Concorda (Sell 5%))
+
+ 6: Scoria paste (VERY STRONG BUY, qui ad essere consigliato è proprio il
+ tradable good, non un suo derivato o una azienda collegata)
+Concorda (25% Buy))
+
+ 7: Ashes of the Phoenix (Skip, la notizia data sembra la classica Fake
+ News, secondo me non c'è rilevanza)
+Concorda (0%)
+
+ 8: Volcanic incense (BUY, Un personaggio sta dirigendo il prezzo delle
+ azioni e consiglia di comprare. Non strong buy perchè magari fa RugPull?)
+oncorda ma moderato (5% buy)
+
+ 9: Sulfur reactor (BUY, la società che lo gestisce verrà inclusa in un
+ Fondo. Non sono sicuro però tra la correlazione tra le due cose, bisogna
+ indagare se per esempio il prezzo del Titanio sale se una azienda di
+ Titanio entra in un famoso ETF, ma credo di sì)
+Concorda ma buy debole (5% buy)
